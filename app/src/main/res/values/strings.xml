@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">VanTec Drone</string>
+
+    <string name="add_pin">Add pins</string>
+    <string name="center_location">Center current location</string>
+    <string name="take_off">Take off</string>
+    <string name="clear_waypoints">Clear all waypoints</string>
+
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="time">Time:</string>
+    <string name="height">Height:</string>
+
+    <string name="point_of_interest">Point of interest</string>
+    <string name="lat_hint">Latitude (°)</string>
+    <string name="lng_hint">Longitude (°)</string>
+    <string name="time_hint">Time (s)</string>
+    <string name="alt_hint">Height (m)</string>
+
+    <string name="setting_base_addr">Base address</string>
+    <string name="setting_base_port">Base port</string>
+    <string name="setting_default_alt">Default Altitude</string>
+</resources>
